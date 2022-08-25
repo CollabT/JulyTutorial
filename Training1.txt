@@ -1,1 +1,2 @@
-hello Class. this is our first file.
+hello Class. this is our first file. 
+Print("Hello")
